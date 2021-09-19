@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632066404 source:c:\users\user\desktop\banking record system\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
